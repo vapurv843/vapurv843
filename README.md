@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vapurv843
 - 👀 I’m interested in building softwares..
-- 🌱 I’m currently learning react,Elastic search and cassandra
+- 🌱 I’m currently learning react
 - 📫 How to reach me vapurv843@gmail.com
 
 <!---
